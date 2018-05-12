@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1526051465 source:d:\git_projects\menu_project\main.cpp
+	"Menu.hpp"
+
+1526051422 d:\git_projects\menu_project\menu.hpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+	<cstdlib>
+	<string.h>
+	<ctype.h>
+
+1526051505 source:d:\git_projects\menu_project\menu_function.cpp
+	<iostream>
+	<cstdio>
+	"Menu.hpp"
+	<cstdlib>
+	<algorithm>
+
